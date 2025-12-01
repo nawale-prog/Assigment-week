@@ -1,16 +1,16 @@
-let userName = "Alice";
-let userAge = 30;
+let userName = "Naash";
+let userAge = 22;
 console.log("2. let Variable:", userName, "is", userAge, "years old.");
 
-userAge = 31;
+userAge = 25;
 console.log("   Reassigned Age:", userAge);
 
 const appName = "CodeDay1";
 const piValue = 3.14159;
 console.log("3. const Variable:", appName);
 
-let myString = "hello";
-let myNumber = 42;
+let myString = "hi";
+let myNumber = 20;
 let myBoolean = true;
 let myArray = [1, 2, 3];
 let myObject = { key: "value" };
@@ -26,8 +26,8 @@ console.log("   Object type:", typeof myObject);
 console.log("   Undefined type:", typeof myUndefined);  
 console.log("   typeof null:", typeof myNull);      
 
-let firstName = "John";
-let lastName = "Doe";
+let firstName = "Nasa";
+let lastName = "Awale";
 
 let fullName = firstName + " " + lastName;
 
